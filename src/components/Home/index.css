@@ -1,0 +1,19 @@
+.content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.home-img {
+  width: 180px;
+}
+
+.dark-bg {
+  background-color: #000000;
+}
+
+.light-bg {
+  background-color: #ffffff;
+}
